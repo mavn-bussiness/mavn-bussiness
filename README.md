@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mavn-bussiness
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Laravel + Vue
+- 🌱 I’m currently learning python for data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +256757006088
 - 😄 Pronouns: He/Him
