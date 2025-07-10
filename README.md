@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mavn-bussiness
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Cybersecurity and networking
 - 🌱 I’m currently learning python for data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on machine learning and AI projects
 - 📫 How to reach me +256757006088
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Captain America The Winter Solider is the best movie of all time.
